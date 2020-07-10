@@ -1,0 +1,14 @@
+SMAP
+cadastrarCliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 cadastrarCliente.jsp
+cliente/cadastrarCliente.jsp
+*L
+1,49:44
+50:93,3
+51:96
+52:97,3
+53,301:100
+*E

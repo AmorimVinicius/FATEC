@@ -1,0 +1,25 @@
+SMAP
+cadastrarCausasNaturais_jsp.java
+JSP
+*S JSP
+*F
++ 0 cadastrarCausasNaturais.jsp
+causasNaturais/cadastrarCausasNaturais.jsp
+*L
+1,78:57
+78:212,8
+79:220
+80:221,3
+81:224
+81,17:137
+97:243,11
+98:254
+99,5:255,3
+104,2:270
+105,6:156
+110:296,8
+111:304
+112:305,3
+113:308
+113,31:164
+*E
